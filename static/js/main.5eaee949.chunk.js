@@ -1,0 +1,2 @@
+(this["webpackJsonptest-lady-school"]=this["webpackJsonptest-lady-school"]||[]).push([[0],{10:function(e,t,c){},11:function(e,t,c){"use strict";c.r(t);var s=c(0),n=c(1),r=c.n(n),o=c(3),i=c.n(o);c(9),c(10);var a=function(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)("header",{className:"App-header",children:Object(s.jsx)("h1",{children:"Hello, it is work!"})})})};i.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.5eaee949.chunk.js.map
