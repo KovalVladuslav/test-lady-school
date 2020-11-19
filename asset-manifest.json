@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-lady-school/static/css/main.adbb3a35.chunk.css",
+    "main.css": "/test-lady-school/static/css/main.abfee64a.chunk.css",
     "main.js": "/test-lady-school/static/js/main.8cb5230f.chunk.js",
     "main.js.map": "/test-lady-school/static/js/main.8cb5230f.chunk.js.map",
     "runtime-main.js": "/test-lady-school/static/js/runtime-main.c0c17892.js",
@@ -8,7 +8,7 @@
     "static/js/2.1a807bd9.chunk.js": "/test-lady-school/static/js/2.1a807bd9.chunk.js",
     "static/js/2.1a807bd9.chunk.js.map": "/test-lady-school/static/js/2.1a807bd9.chunk.js.map",
     "index.html": "/test-lady-school/index.html",
-    "static/css/main.adbb3a35.chunk.css.map": "/test-lady-school/static/css/main.adbb3a35.chunk.css.map",
+    "static/css/main.abfee64a.chunk.css.map": "/test-lady-school/static/css/main.abfee64a.chunk.css.map",
     "static/js/2.1a807bd9.chunk.js.LICENSE.txt": "/test-lady-school/static/js/2.1a807bd9.chunk.js.LICENSE.txt",
     "static/media/arrow.c07e1be9.svg": "/test-lady-school/static/media/arrow.c07e1be9.svg",
     "static/media/CardHeader.scss": "/test-lady-school/static/media/decor-border-top.0e0cd23b.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0c17892.js",
     "static/js/2.1a807bd9.chunk.js",
-    "static/css/main.adbb3a35.chunk.css",
+    "static/css/main.abfee64a.chunk.css",
     "static/js/main.8cb5230f.chunk.js"
   ]
 }
