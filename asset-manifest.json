@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/test-lady-school/static/css/main.6b601156.chunk.css",
-    "main.js": "/test-lady-school/static/js/main.8cb5230f.chunk.js",
-    "main.js.map": "/test-lady-school/static/js/main.8cb5230f.chunk.js.map",
+    "main.css": "/test-lady-school/static/css/main.e7f5d5e7.chunk.css",
+    "main.js": "/test-lady-school/static/js/main.6fd0109f.chunk.js",
+    "main.js.map": "/test-lady-school/static/js/main.6fd0109f.chunk.js.map",
     "runtime-main.js": "/test-lady-school/static/js/runtime-main.c0c17892.js",
     "runtime-main.js.map": "/test-lady-school/static/js/runtime-main.c0c17892.js.map",
-    "static/js/2.1a807bd9.chunk.js": "/test-lady-school/static/js/2.1a807bd9.chunk.js",
-    "static/js/2.1a807bd9.chunk.js.map": "/test-lady-school/static/js/2.1a807bd9.chunk.js.map",
+    "static/js/2.6ef43525.chunk.js": "/test-lady-school/static/js/2.6ef43525.chunk.js",
+    "static/js/2.6ef43525.chunk.js.map": "/test-lady-school/static/js/2.6ef43525.chunk.js.map",
     "index.html": "/test-lady-school/index.html",
-    "static/css/main.6b601156.chunk.css.map": "/test-lady-school/static/css/main.6b601156.chunk.css.map",
-    "static/js/2.1a807bd9.chunk.js.LICENSE.txt": "/test-lady-school/static/js/2.1a807bd9.chunk.js.LICENSE.txt",
+    "static/css/main.e7f5d5e7.chunk.css.map": "/test-lady-school/static/css/main.e7f5d5e7.chunk.css.map",
+    "static/js/2.6ef43525.chunk.js.LICENSE.txt": "/test-lady-school/static/js/2.6ef43525.chunk.js.LICENSE.txt",
     "static/media/arrow.c07e1be9.svg": "/test-lady-school/static/media/arrow.c07e1be9.svg",
+    "static/media/Modal.scss": "/test-lady-school/static/media/checkbox-none.41b7c3b3.svg",
     "static/media/CardHeader.scss": "/test-lady-school/static/media/decor-border-top.0e0cd23b.svg",
+    "static/media/close_light.d5086c9f.svg": "/test-lady-school/static/media/close_light.d5086c9f.svg",
+    "static/media/done.1cf7a584.svg": "/test-lady-school/static/media/done.1cf7a584.svg",
     "static/media/e-mail.045aaf54.svg": "/test-lady-school/static/media/e-mail.045aaf54.svg",
     "static/media/facebook.65a91869.svg": "/test-lady-school/static/media/facebook.65a91869.svg",
     "static/media/instagram.3974ceb4.svg": "/test-lady-school/static/media/instagram.3974ceb4.svg",
     "static/media/lady-school-logo.c43675c0.svg": "/test-lady-school/static/media/lady-school-logo.c43675c0.svg",
+    "static/media/App.scss": "/test-lady-school/static/media/login.a748a7f0.svg",
     "static/media/payment.18c3add5.svg": "/test-lady-school/static/media/payment.18c3add5.svg",
-    "static/media/price-label.22b71099.png": "/test-lady-school/static/media/price-label.22b71099.png",
-    "static/media/teacher.ddcc96e4.png": "/test-lady-school/static/media/teacher.ddcc96e4.png"
+    "static/media/price-label.22b71099.png": "/test-lady-school/static/media/price-label.22b71099.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c0c17892.js",
-    "static/js/2.1a807bd9.chunk.js",
-    "static/css/main.6b601156.chunk.css",
-    "static/js/main.8cb5230f.chunk.js"
+    "static/js/2.6ef43525.chunk.js",
+    "static/css/main.e7f5d5e7.chunk.css",
+    "static/js/main.6fd0109f.chunk.js"
   ]
 }
