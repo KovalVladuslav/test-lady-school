@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/test-lady-school/static/css/main.7b7e23bd.chunk.css",
-    "main.js": "/test-lady-school/static/js/main.04338465.chunk.js",
-    "main.js.map": "/test-lady-school/static/js/main.04338465.chunk.js.map",
+    "main.css": "/test-lady-school/static/css/main.a7d21365.chunk.css",
+    "main.js": "/test-lady-school/static/js/main.cdf1dff4.chunk.js",
+    "main.js.map": "/test-lady-school/static/js/main.cdf1dff4.chunk.js.map",
     "runtime-main.js": "/test-lady-school/static/js/runtime-main.c0c17892.js",
     "runtime-main.js.map": "/test-lady-school/static/js/runtime-main.c0c17892.js.map",
     "static/js/2.6ef43525.chunk.js": "/test-lady-school/static/js/2.6ef43525.chunk.js",
     "static/js/2.6ef43525.chunk.js.map": "/test-lady-school/static/js/2.6ef43525.chunk.js.map",
     "index.html": "/test-lady-school/index.html",
-    "static/css/main.7b7e23bd.chunk.css.map": "/test-lady-school/static/css/main.7b7e23bd.chunk.css.map",
+    "static/css/main.a7d21365.chunk.css.map": "/test-lady-school/static/css/main.a7d21365.chunk.css.map",
     "static/js/2.6ef43525.chunk.js.LICENSE.txt": "/test-lady-school/static/js/2.6ef43525.chunk.js.LICENSE.txt",
     "static/media/arrow.c07e1be9.svg": "/test-lady-school/static/media/arrow.c07e1be9.svg",
     "static/media/Modal.scss": "/test-lady-school/static/media/checkbox-none.41b7c3b3.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0c17892.js",
     "static/js/2.6ef43525.chunk.js",
-    "static/css/main.7b7e23bd.chunk.css",
-    "static/js/main.04338465.chunk.js"
+    "static/css/main.a7d21365.chunk.css",
+    "static/js/main.cdf1dff4.chunk.js"
   ]
 }
